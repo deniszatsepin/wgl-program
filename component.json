@@ -1,0 +1,17 @@
+{
+  "name": "wgl-program",
+  "repo": "deniszatsepin/wgl-program",
+  "description": "WebGL shader programs",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+	  "component/array-parallel": "*",
+	  "visionmedia/superagent": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "program.js",
+  "scripts": [
+    "program.js"
+  ]
+}
